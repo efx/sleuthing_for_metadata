@@ -8,9 +8,9 @@
 - Why should you care?
   - Security, privacy, and cow paths
 - What is this talk about?
-  - a trio of howto guides to explore and extract metadata for Office documents, PDFs, and various image formats.
+  - three howto guides for exploring metadata for Office documents, PDFs, and various image formats.
 
-# reverse engineering premise
+# reverse engineering
 - we can often explore software artifacts using other software
 
 # Microsoft Office Documents (docx, odt, xlsx)
