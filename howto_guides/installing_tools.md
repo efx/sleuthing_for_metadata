@@ -8,6 +8,11 @@ The guides presume you have the following utilities installed on your system:
 - [exiftool](https://exiftool.org/)
 - [nushell](https://www.nushell.sh/)
 
+## optional
+
+- [libxml2](http://www.xmlsoft.org/)
+   - has a nice `xmllint` tool which you can use to pretty print XML trees 
+
 ## macOS
 
 I prefer using homebrew to manage dependencies.
