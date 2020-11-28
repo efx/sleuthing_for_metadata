@@ -2,9 +2,14 @@
 % Unpacking 3 File Formats
 % Eli Flanagan - December 4, 2020
 
+## who am I?
+
+- software person
+- slides based on a true story
+
 ## Introduction
-- Who am I?
-- a tale of dumpster diving
+
+*picture of dumpster*
 
 ## why should you care?
 :::incremental
@@ -20,14 +25,17 @@
   - unzip
   - [nushell](https://www.nushell.sh/)
 
-## docx
+## who
 - who wrote this document?
-- when was it last modified?
+
+## when
+- when was this document last modified?
 
 ## Microsoft Office Documents outro
-- LibreOffice documents essentially the same
+- archives of XML
+- LibreOffice documents quite similar
 
-## PDFs
+## Portable Document Formats
 - Boring Documents that can run JavaScript
 - [SO answer](https://stackoverflow.com/questions/29342542/how-can-i-extract-a-javascript-from-a-pdf-file-with-a-command-line-tool)
 - [Didier's tools in python](https://blog.didierstevens.com/category/pdf/)
