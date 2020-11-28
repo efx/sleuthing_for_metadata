@@ -1,4 +1,4 @@
-#!/user/bin/env sh
+#!/usr/bin/env sh
 
 cd $TMPDIR
 curl -O https://cposc.org/wp-content/uploads/2019/08/EliFlanagan.jpeg
