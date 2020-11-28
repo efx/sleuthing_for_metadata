@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-python pdf-parser.py -t '/Action' ../testing.pdf
+./pdf-parser.py --type '/Action' "$1"

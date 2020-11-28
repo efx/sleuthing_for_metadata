@@ -31,19 +31,43 @@
 ## when
 - when was this document last modified?
 
-## Microsoft Office Documents outro
+## docx summary
 - archives of XML
 - LibreOffice documents quite similar
 
 ## Portable Document Formats
-- Boring Documents that can run JavaScript
-- [SO answer](https://stackoverflow.com/questions/29342542/how-can-i-extract-a-javascript-from-a-pdf-file-with-a-command-line-tool)
-- [Didier's tools in python](https://blog.didierstevens.com/category/pdf/)
+- boring documents that can run JavaScript
+- [Didier Stevens blog and tools](https://blog.didierstevens.com/programs/pdf-tools/)
 
-## Digital Pictures
+## what
+- does this document contain automatic behavior?
+
+## what
+- does this document contain JavaScript?
+
+
+## Digital Images
+
 - [exiftool](https://exiftool.org/install.html)
-- treasure troves
-- I know where you took that picture and what you took it with
+
+## what
+- what device took this picture?
+
+## where
+- where was this picture taken?
+
+## when
+- when was this picture taken?
+
+## bonus
+
+exiftool handles PDFs!
+
+## who
+- who wrote this PDF?
+
+## when
+- when was this PDF written?
 
 ## the end, for now
 - a talk of beginnings
