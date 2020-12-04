@@ -5,12 +5,3 @@ Big data screams for our attention. But what about tiny metadata? Or malicious d
 
 [CPOSC 2020 website link](https://cposc.org/sessions/sleuthing-metadata-unpacking-3-file-formats/).
 
-
-## running presentation
-
-You'll need to install pandoc and watchexec.
-
-```
-watchexec --exts txt ./build.sh
-
-```
