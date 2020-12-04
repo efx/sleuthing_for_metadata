@@ -2,6 +2,7 @@
 
 I use the following medley to build and run the presentation.
 
+## installation
 
 - pandoc for converting the text to a reveal.js presentation
 	```
@@ -15,3 +16,9 @@ I use the following medley to build and run the presentation.
 	```
 	cargo install miniserve
 	```
+
+## running
+
+```sh
+./run.sh
+```
