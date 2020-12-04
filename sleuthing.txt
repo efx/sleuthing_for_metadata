@@ -2,14 +2,23 @@
 % Unpacking 3 File Formats
 % Eli Flanagan - December 4, 2020
 
+## the future (outline)
+
+- preliminaries
+- ask questions of:
+	- docx
+	- PDFs
+	- images
+- end on further exploration
+
 ## who am I?
 
-- software tinkerer, team lead
-- slides based on a true story
+- software tinkerer
+- team lead
 
-## Introduction
+##
 
-![picture of dumpster](dumpster.jpg)
+![](dumpster.jpg)
 
 ## why should you care?
 :::incremental
@@ -17,6 +26,13 @@
 - reverse engineering
 - command line goodies
 :::
+
+## follow along
+
+- [repo](https://github.com/efx/sleuthing_for_metadata)
+```
+git clone https://github.com/efx/sleuthing_for_metadata.git
+```
 
 
 ## Microsoft Office Documents
@@ -31,12 +47,12 @@
 ## when
 - when was this document last modified?
 
-## docx summary
+## docx takeaways
 - archives of XML
 - LibreOffice documents quite similar
 
-## Portable Document Formats
-- boring documents that can run JavaScript
+## PDFs
+- boring documents that might misbehave
 - [Didier Stevens blog and tools](https://blog.didierstevens.com/programs/pdf-tools/)
 
 ## what
@@ -46,9 +62,9 @@
 - does this document contain JavaScript?
 
 
-## Digital Images
+## Images and more
 
-- [exiftool](https://exiftool.org/install.html)
+[exiftool](https://exiftool.org/install.html)
 
 ## what
 - what device took this picture?
@@ -69,5 +85,5 @@ exiftool handles PDFs!
 ## when
 - when was this PDF written?
 
-## the end, for now
+## the end
 - *Go forth reverse engineer!*
