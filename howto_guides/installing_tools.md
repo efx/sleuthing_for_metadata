@@ -8,8 +8,8 @@ The guides presume you have the following utilities installed on your system:
 - [exiftool](https://exiftool.org/)
 - [nushell](https://www.nushell.sh/)
 - [pdf-tools](https://blog.didierstevens.com/programs/pdf-tools/)
+   - [python 2.7](https://www.python.org/downloads/)
    - `curl -O https://didierstevens.com/files/software/pdf-parser_V0_7_4.zip`
-   - 
 
 ## optional
 
