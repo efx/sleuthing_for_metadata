@@ -2,6 +2,15 @@
 % Unpacking 3 File Formats
 % Eli Flanagan - December 4, 2020
 
+## the future (outline)
+
+- preliminaries
+- ask questions of:
+	- docx
+	- PDFs
+	- images
+- end on further exploration
+
 ## who am I?
 
 - software tinkerer
