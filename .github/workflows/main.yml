@@ -24,4 +24,4 @@ jobs:
     - name: Install dependencies
       run: npm install -g markdownlint-cli
     - name: Run linter
-      run: markdownlint . --config .github/configs/.markdownlint.json --ignore node_modules --ignore .github 
+      run: markdownlint . --ignore node_modules --ignore .github
