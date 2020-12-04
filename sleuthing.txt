@@ -31,7 +31,7 @@
 ## when
 - when was this document last modified?
 
-## docx summary
+## docx takeaways
 - archives of XML
 - LibreOffice documents quite similar
 
@@ -46,9 +46,9 @@
 - does this document contain JavaScript?
 
 
-## Digital Images
+## Images and more
 
-- [exiftool](https://exiftool.org/install.html)
+[exiftool](https://exiftool.org/install.html)
 
 ## what
 - what device took this picture?
@@ -69,5 +69,5 @@ exiftool handles PDFs!
 ## when
 - when was this PDF written?
 
-## the end, for now
+## the end
 - *Go forth reverse engineer!*
