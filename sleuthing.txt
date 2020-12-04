@@ -27,6 +27,13 @@
 - command line goodies
 :::
 
+## follow along
+
+- [repo](https://github.com/efx/sleuthing_for_metadata)
+```
+git clone https://github.com/efx/sleuthing_for_metadata.git
+```
+
 
 ## Microsoft Office Documents
 - OOXML everywhere
@@ -45,7 +52,7 @@
 - LibreOffice documents quite similar
 
 ## PDFs
-- boring documents that can run JavaScript
+- boring documents that might misbehave
 - [Didier Stevens blog and tools](https://blog.didierstevens.com/programs/pdf-tools/)
 
 ## what
