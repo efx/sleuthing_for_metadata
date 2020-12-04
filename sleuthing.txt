@@ -4,12 +4,12 @@
 
 ## who am I?
 
-- software tinkerer, team lead
-- slides based on a true story
+- software tinkerer
+- team lead
 
-## Introduction
+##
 
-![picture of dumpster](dumpster.jpg)
+![](dumpster.jpg)
 
 ## why should you care?
 :::incremental
@@ -35,7 +35,7 @@
 - archives of XML
 - LibreOffice documents quite similar
 
-## Portable Document Formats
+## PDFs
 - boring documents that can run JavaScript
 - [Didier Stevens blog and tools](https://blog.didierstevens.com/programs/pdf-tools/)
 
