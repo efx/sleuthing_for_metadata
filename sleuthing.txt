@@ -4,12 +4,12 @@
 
 ## who am I?
 
-- software person
+- software tinkerer, team lead
 - slides based on a true story
 
 ## Introduction
 
-*picture of dumpster*
+![picture of dumpster](dumpster.jpg)
 
 ## why should you care?
 :::incremental
@@ -70,5 +70,4 @@ exiftool handles PDFs!
 - when was this PDF written?
 
 ## the end, for now
-- a talk of beginnings
 - *Go forth reverse engineer!*
